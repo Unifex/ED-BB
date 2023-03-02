@@ -123,7 +123,7 @@ systems = [
   },
   {
     name: "Bridge",
-    body: "A 7 f",
+    body: "1",
     coords: { x: -83.4375, y: -100.21875, z: 95.0625 },
     infos: "",
     biologicals: ["Cactoida Vermis", "Stratum Tectonicas", "Tussock Virgam"],
